@@ -1,0 +1,14 @@
+{
+    "name": "devsmine/sendgrid",
+    "description": "Sendgrid api for textmine",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Devsmine Technologies",
+            "email": "lab.devsmine@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
